@@ -78,7 +78,7 @@ This response confirmed the scam and demonstrated how impersonators can use seem
 
 •	Company warning: The real company posted a fraud warning about fake recruiters.
 
-•	Suspicious profile image: The recruiter’s profile photo raised concerns (e.g., generic appearance, lack of reverse image matches), and I used AI image detection tools, which returned inclusive or mixed results(the image did not clearly appear AI-generated). While not definitive, the image contributed to the 
+•	Suspicious profile image: The recruiter’s profile photo raised concerns (e.g., generic appearance, lack of reverse image matches), and I used AI image detection tools, which returned inconclusive or mixed results(the image did not clearly appear AI-generated). While not definitive, the image contributed to the 
 overall suspicion.
 
 
