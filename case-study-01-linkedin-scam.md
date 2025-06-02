@@ -76,6 +76,8 @@ This response confirmed the scam and demonstrated how impersonators can use seem
 
 •	 Mismatch with official website: The scam domain staffingexpert.online resolved to IP address 91.195.240.123 and used DNS services from dnsowl.com, which are not linked to the legitimate company’s infrastructure. Additionally, WHOIS records showed generic DNS and mail exchange (MX) servers (mx1.titan.email, mx2.titan.email), indicating this domain was likely registered recently or by a third party and hosting a placeholder or parked site rather than a legitimate staffing agency.
 
+    As of [6/1/2025], the domain no longer appears in WHOIS records or resolves to an active site, consistent with common scammer tactics of abandoning or dropping domains once exposed.
+
 •	Company warning: The real company posted a fraud warning about fake recruiters.
 
 •	Suspicious profile image: The recruiter’s profile photo raised concerns (e.g., generic appearance, lack of reverse image matches), and I used AI image detection tools, which returned inconclusive or mixed results(the image did not clearly appear AI-generated). While not definitive, the image contributed to the 
