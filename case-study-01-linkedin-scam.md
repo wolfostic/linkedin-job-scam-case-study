@@ -101,7 +101,7 @@ overall suspicion.
 
 
 ## Exposure
-•	Fortunately, I didn't share anything personal like my SSN or banking details except for my resume, which doesn't hold anything more identifiable other than my city and state location, phone number, name, my email, LinkedIn profile, my GitHub, and where I am enrolled. While exposing my phone number, email, and name can be used maliciously, I am willing to accept the risk, given that it was meant to be public.
+•	Fortunately, I didn't share anything personal like my SSN or banking details except for my resume, which doesn't hold anything more identifiable other than my city and state location, phone number, name, my email, LinkedIn profile, my GitHub, and where I am enrolled. While exposing my phone number, email, and name can be used maliciously, I am willing to accept the risk, given that it was intended to be public, and that I have safeguards in place to protect myself when bad actors are using that information.
       
 ## Lessons Learned
 •	Even polished LinkedIn profiles can be fake or compromised.
