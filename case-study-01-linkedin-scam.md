@@ -93,11 +93,11 @@ overall suspicion.
 
 
 ## Potential Impacts
-•	Loss of credentials due to malware or sharing the same password via their portal. (If they did have one)
+•	Loss of credentials due to malware or sharing the same password from one of your other accounts when creating a job application account via their portal (if they do have one). 
 
-•	Loss of data or damage to the computer and network via malware, I could have potentially received.
+•	Loss of data or damage to the computer and network via malware.
 
-•	Financial fraud due to sharing my personal information, which can be used to create loans or other financial products in my name.
+•	Financial fraud due to sharing personal information, which can be used to create loans or other financial products in an individual's name.
 
 
 ## Exposure
