@@ -93,15 +93,15 @@ overall suspicion.
 
 
 ## Potential Impacts
-•	Loss of credentials due to malware or sharing the same password from one of your other accounts when creating a job application account via their portal (if they do have one). 
+•	Loss of credentials due to malware or credential reuse across unrelated services when creating a job application account via their portal (if they do have one). (Confidentiality)
 
-•	Loss of data or damage to the computer and network via malware.
+•	Loss of data or damage to the computer and network via malware. (Integrity and Availability)
 
 •	Financial fraud due to sharing personal information, which can be used to create loans or other financial products in an individual's name.
 
 
 ## Exposure
-•	Fortunately, I didn't share anything personal like my SSN or banking details except for my resume, which doesn't hold anything more identifiable other than my city and state location, phone number, name, my email, LinkedIn profile, my GitHub, and where I am enrolled. While exposing my phone number, email, and name can be used maliciously, I am willing to accept the risk, given that it was intended to be public, and that I have safeguards in place to protect myself when bad actors are using that information.
+•	Fortunately, I didn't share anything personal like my SSN or banking details except for my resume, which doesn't hold anything more identifiable other than my city and state location, phone number, name, my email, LinkedIn profile, my GitHub, and where I am enrolled. While exposing my phone number, email, and name can be used maliciously, I can formally accept the risk, given that it was intended to be public, and I have safeguards in place to protect myself when bad actors use that information.
       
 ## Lessons Learned
 •	Even polished LinkedIn profiles can be fake or compromised.
