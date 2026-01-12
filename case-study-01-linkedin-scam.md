@@ -59,7 +59,7 @@ In addition, they provided a detailed set of security precautions, including:
 
     o	Report the phishing incident to the Federal Trade Commission (FTC) via ReportFraud.ftc.gov.
 
-This response confirmed the scam and demonstrated how impersonators can use seemingly legitimate platforms to deceive applicants.
+This response confirmed the scam and demonstrated how impersonators can use seemingly legitimate accounts to deceive applicants.
 
 
 ## Red Flags Identified
@@ -72,9 +72,9 @@ This response confirmed the scam and demonstrated how impersonators can use seem
 
 •	Too quick to hire: The whole process was unusually fast; it took only three days after I applied for an offer.
 
-•	Too-good-to-be-true compensation: Compensation appeared unusually high ($25–$40/hr) for part-time remote work with flexible hours. A common tactic in employment scams is to lure quick responses.
+•	Too-good-to-be-true compensation: Compensation appeared unusually high ($25–$40/hr) for part-time remote work with flexible hours. A common tactic in employment scams is to lure quick responses via high compensation.
 
-•	 Mismatch with official website: The scam domain staffingexpert.online resolved to IP address 91.195.240.123 and used DNS services from dnsowl.com, which are not linked to the legitimate company’s infrastructure. Additionally, WHOIS records showed generic DNS and mail exchange (MX) servers (mx1.titan.email, mx2.titan.email), indicating this domain was likely registered recently or by a third party and hosting a placeholder or parked site rather than a legitimate staffing agency.
+•	 Mismatch with official website: The scam domain staffingexpert.online resolved to IP address 91.195.240.123 and used DNS services from dnsowl.com, which are not linked to the legitimate company’s infrastructure. Additionally, WHOIS records showed generic DNS and mail exchange (MX) servers (mx1.titan.email, mx2.titan.email), indicating this domain was likely registered recently or by a third party and hosting a placeholder or parked site rather than a legitimate staffing agency corporate domain.
 
     As of [6/1/2025], the domain no longer appears in WHOIS records or resolves to an active site, consistent with common scammer tactics of abandoning or dropping domains once exposed.
 
@@ -87,9 +87,21 @@ overall suspicion.
 ## Verification Process
 •	I visited the official company website and located their verified recruiter team contact email.
 
-•	I emailed them directly asking if the job and recruiter were legitimate.
+•	I emailed them directly, asking if the job and recruiter were legitimate.
 
 •	The company responded and confirmed that the job was fake and the recruiter did not represent them.
+
+
+## Potential Impacts
+•	Loss of credentials due to malware or sharing the same password via their portal. (If they did have one)
+
+•	Loss of data or damage to the computer and network via malware, I could have potentially received.
+
+•	Financial fraud due to sharing my personal information, which can be used to create loans or other financial products in my name.
+
+
+## Exposure
+•	Fortunately, I didn't share anything personal like my SSN or banking details except for my resume, which doesn't hold anything more identifiable other than my city and state location, phone number, name, my email, LinkedIn profile, my GitHub, and where I am enrolled. While exposing my phone number, email, and name can be used maliciously, I am willing to accept the risk, given that it was meant to be public.
       
 ## Lessons Learned
 •	Even polished LinkedIn profiles can be fake or compromised.
@@ -103,7 +115,7 @@ overall suspicion.
 ## Recommendations for Job Seekers
 •	Always verify recruiter identities through official company websites or verified corporate emails.
 
-•	Be cautious of job offers that come too quickly or don’t involve any form of interview or skills validation.
+•	Be cautious of job offers that come too quickly or don’t require any form of interview or skills validation.
 
 •	Check the email domain; scammers often use unofficial or lookalike domains to appear legitimate.
 
@@ -125,8 +137,8 @@ overall suspicion.
 ##      Context & Reflection
 While receiving a job offer without an interview is typically a major red flag, I recognize that not every such case is necessarily a scam.
 
-A few years ago, I accepted a legitimate job offer over the phone without an interview. The person sounded professional and didn’t ask for money, which lowered my suspicion. I did not verify the job or individual through official company emails or domains; 
-instead, I relied solely on the phone number that contacted me. In hindsight, this was risky, but the job was real.
+A few years ago, I accepted a legitimate job offer over the phone without an interview. The person sounded professional and didn’t ask for money, which lowered my suspicion. I did not verify the job or the individual through official company emails or domains. 
+Instead, I relied solely on the phone number that contacted me. In hindsight, this was a risky move, but the job was real.
 
 The role was overwhelming and disorganized; I suspect the lack of an interview was due to urgent hiring needs rather than standard practice.
 
